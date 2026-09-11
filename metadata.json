@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rai MK Download Manager",
+  "description": "A high-speed, secure download manager with cross-platform sync, elegant RGB aesthetics, and integrated file management for desktop users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
